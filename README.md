@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @csmit0328
+- 👋 Hi, I’m @CoreySmith
 - 👀 I’m interested in Cloud Production technologies.
 - 🌱 I’m currently learning how things are working.
 - 💞️ I’m looking to collaborate on anything.
